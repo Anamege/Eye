@@ -1,3 +1,3 @@
 # Eyes
 ## Exercise on eye movement
-<link href="https://supple-dealfish-stsf-8080.nt.run/">
+<img src="eye.jpg" width='240' height='120'>
