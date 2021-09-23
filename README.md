@@ -1,3 +1,4 @@
 # Eyes
 ## Exercise On Eye Movement
 <img src="Eye.PNG" width='240' height='120'>
+The purpose of this project is to demonstrate my skills in jointly manipulating HTML, Javascript, and CSS in web development. I also applied bootstrap a template that faciilitates site development.  
